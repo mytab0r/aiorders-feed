@@ -1,0 +1,672 @@
+{
+ "week": "2026-W47",
+ "generated": 1795365104,
+ "total_relevant": 54,
+ "items": [
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5617",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов в категории Разработка (Боты и парсинг данных): 1. Разработать веб апп дизайн для телеграм бота (10 000",
+   "url": "https://t.me/freelansim_ru/5617",
+   "budget": null,
+   "posted": 1794389989.0474741,
+   "score": 6,
+   "themes": [
+    "Боты",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5613",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов по тегу #python : 1. Разработать телеграм бота и интегрировать с openai (цена договорная) https://u.hab",
+   "url": "https://t.me/freelansim_ru/5613",
+   "budget": null,
+   "posted": 1794389989.0091474,
+   "score": 6,
+   "themes": [
+    "Агенты и LLM",
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40810397",
+   "source": "freelancer",
+   "title": "ChatGPT Product Feed Campaign Setup with AI SEO, GEO, AEO and LLM Optimization",
+   "url": "https://www.freelancer.com/projects/ChatGPT-Product-Feed-Campaign-Setup-40810397",
+   "budget": 30.0,
+   "posted": 1794251928.2251582,
+   "score": 5,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "wwr:https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+   "source": "wwr:full-stack-programming",
+   "title": "Volga Partners: AI/ML Engineer - Production AI & LLM Systems (India)",
+   "url": "https://weworkremotely.com/remote-jobs/volga-partners-ai-ml-engineer-production-ai-llm-systems-india",
+   "budget": null,
+   "posted": 1795010971.0579717,
+   "score": 5,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "t3_1xro9ou",
+   "source": "reddit:n8n",
+   "title": "I automated SOC alert triage with n8n + Gemini (VirusTotal, AbuseIPDB, Slack, GitHub Issues), free tier",
+   "url": "https://www.reddit.com/r/n8n/comments/1xro9ou/i_automated_soc_alert_triage_with_n8n_gemini/",
+   "budget": null,
+   "posted": 1794220443.094378,
+   "score": 5,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "t3_1xrja7a",
+   "source": "reddit:n8n",
+   "title": "I built an AI phishing detector in n8n (VirusTotal + Gemini, free tier)",
+   "url": "https://www.reddit.com/r/n8n/comments/1xrja7a/i_built_an_ai_phishing_detector_in_n8n_virustotal/",
+   "budget": null,
+   "posted": 1794201723.6654289,
+   "score": 5,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "freelancer:40822009",
+   "source": "freelancer",
+   "title": "n8n AI Content Automation",
+   "url": "https://www.freelancer.com/projects/n8n/Content-Automation-40822009",
+   "budget": 826.0,
+   "posted": 1794894576.9287343,
+   "score": 4,
+   "themes": [
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "freelancer:40824494",
+   "source": "freelancer",
+   "title": "OpenAI n8n Content Workflow",
+   "url": "https://www.freelancer.com/projects/openai/OpenAI-Content-Workflow",
+   "budget": 250.0,
+   "posted": 1795013246.3793795,
+   "score": 4,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "tg:FrWork3:FrWork3/16383",
+   "source": "telegram:FrWork3",
+   "title": "Таргетолог (ВКонтакте, Авито, Telegram) Для наших проектов требуется таргетолог по рекламе ВКонтакте, Авито, Telegram. У",
+   "url": "https://t.me/FrWork3/16383",
+   "budget": null,
+   "posted": 1795165510.1560047,
+   "score": 4,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5610",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов в категории Разработка (Боты и парсинг данных): 1. Создать просто тг бота для анализа стоимости монет (",
+   "url": "https://t.me/freelansim_ru/5610",
+   "budget": null,
+   "posted": 1794389988.9975977,
+   "score": 4,
+   "themes": [
+    "Боты",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5606",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов в категории Разработка (Фронтенд): 1. Написание чат бота в Телеграм и реферальной системы на Питоне (40",
+   "url": "https://t.me/freelansim_ru/5606",
+   "budget": null,
+   "posted": 1794389988.9778438,
+   "score": 4,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5605",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов в категории Разработка (Боты и парсинг данных): 1. Разработать телеграмм бота Quiz (цена договорная) ht",
+   "url": "https://t.me/freelansim_ru/5605",
+   "budget": null,
+   "posted": 1794389988.9688034,
+   "score": 4,
+   "themes": [
+    "Боты",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "github:6305939536",
+   "source": "github:bounty",
+   "title": "[Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook against replay in src/business_chatbot_guard.py",
+   "url": "https://github.com/PhanKhoa95/oss-bot-trap-benchmark/issues/88",
+   "budget": null,
+   "posted": 1794310950.3455737,
+   "score": 4,
+   "themes": [
+    "Агенты и LLM",
+    "Боты",
+    "API и интеграции"
+   ]
+  },
+  {
+   "id": "t3_1xro7mn",
+   "source": "reddit:n8n",
+   "title": "I built a brute-force login detector in n8n with Gemini making the block/monitor decision (free tier)",
+   "url": "https://www.reddit.com/r/n8n/comments/1xro7mn/i_built_a_bruteforce_login_detector_in_n8n_with/",
+   "budget": null,
+   "posted": 1794220443.1018257,
+   "score": 4,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "t3_1xrkct5",
+   "source": "reddit:n8n",
+   "title": "Getting an LLM to build or fix an n8n workflow depends a lot on what you paste in",
+   "url": "https://www.reddit.com/r/n8n/comments/1xrkct5/getting_an_llm_to_build_or_fix_an_n8n_workflow/",
+   "budget": null,
+   "posted": 1794207903.785805,
+   "score": 4,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "t3_1xr8eq4",
+   "source": "reddit:zapier",
+   "title": "A 200 from a Zapier Catch Hook means \"received\", not \"processed\": what Zapier's webhook docs say and what to build on the sending side",
+   "url": "https://www.reddit.com/r/zapier/comments/1xr8eq4/a_200_from_a_zapier_catch_hook_means_received_not/",
+   "budget": null,
+   "posted": 1794174903.7989044,
+   "score": 4,
+   "themes": [
+    "Парсинг и автоматизация",
+    "API и интеграции"
+   ]
+  },
+  {
+   "id": "freelancer:40821436",
+   "source": "freelancer",
+   "title": "n8n AI Social Content Workflow",
+   "url": "https://www.freelancer.com/projects/n8n/Social-Content-Workflow",
+   "budget": 825.0,
+   "posted": 1794861331.0000217,
+   "score": 3,
+   "themes": [
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "freelancer:40824815",
+   "source": "freelancer",
+   "title": "n8n AI Content Workflow",
+   "url": "https://www.freelancer.com/projects/n8n/Content-Workflow",
+   "budget": 750.0,
+   "posted": 1795027587.8583899,
+   "score": 3,
+   "themes": [
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "freelancer:40824601",
+   "source": "freelancer",
+   "title": "OpenAI Spreadsheet Automation Workflow",
+   "url": "https://www.freelancer.com/projects/openai/OpenAI-Spreadsheet-Automation-Workflow",
+   "budget": 750.0,
+   "posted": 1795017022.7385497,
+   "score": 3,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40812601",
+   "source": "freelancer",
+   "title": "YouTube Video Editing Setup with Claude AI",
+   "url": "https://www.freelancer.com/projects/youtube/YouTube-Video-Editing-Setup-with",
+   "budget": 250.0,
+   "posted": 1794365476.2262661,
+   "score": 3,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40809913",
+   "source": "freelancer",
+   "title": "Monthly Agentic SEO & GEO Expert (who uses claude or ai tools)",
+   "url": "https://www.freelancer.com/projects/ai-automation/Monthly-Agentic-SEO-GEO-Expert",
+   "budget": 100.0,
+   "posted": 1794226981.7600567,
+   "score": 3,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40810195",
+   "source": "freelancer",
+   "title": "Claude AI SEO & Google Ads Agent",
+   "url": "https://www.freelancer.com/projects/ai-agent-swarms/Claude-SEO-Google-Ads-Agent",
+   "budget": 25.0,
+   "posted": 1794241922.529378,
+   "score": 3,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40811248",
+   "source": "freelancer",
+   "title": "Claude Setup & Portal Automation",
+   "url": "https://www.freelancer.com/projects/ai-automation/Claude-Setup-Portal-Automation",
+   "budget": 16.0,
+   "posted": 1794302161.1801262,
+   "score": 3,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "tg:digitaltender:digitaltender/5629",
+   "source": "telegram:digitaltender",
+   "title": "Ищете работу или фриланс-заказы? Получайте подборки под свои навыки прямо в Telegram. FN BOT собирает вакансии и заказы",
+   "url": "https://t.me/digitaltender/5629",
+   "budget": null,
+   "posted": 1794566127.8402584,
+   "score": 3,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5615",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов в категории Разработка (Бэкенд): 1. Разработка сервиса AI бота (цена договорная) https://u.habr.com/31Z",
+   "url": "https://t.me/freelansim_ru/5615",
+   "budget": null,
+   "posted": 1794389989.035642,
+   "score": 3,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "github:6310406648",
+   "source": "github:bounty",
+   "title": "[Bounty] [Bounty $1,600] security(guard): harden multi-tenant RAG & idempotent webhook ag",
+   "url": "https://github.com/zhangjiayang6835-cyber/bounty-plaza/issues/4286",
+   "budget": 1600.0,
+   "posted": 1794327807.3789155,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM",
+    "API и интеграции"
+   ]
+  },
+  {
+   "id": "freelancer:40822100",
+   "source": "freelancer",
+   "title": "YouTube AI Workflow & Video Editor (Faceless STEM Channel) + Pabbly Automation - 17/11/2026 01:44 EST",
+   "url": "https://www.freelancer.com/projects/adobe-premiere-pro/YouTube-Workflow-Video-Editor-Faceless-40822100",
+   "budget": 1500.0,
+   "posted": 1794900212.5197346,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40821874",
+   "source": "freelancer",
+   "title": "Secure Mining Reports Chatbot Dashboard",
+   "url": "https://www.freelancer.com/projects/ai-chatbot/Secure-Mining-Reports-Chatbot-Dashboard",
+   "budget": 1012.0,
+   "posted": 1794887436.997031,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40808909",
+   "source": "freelancer",
+   "title": "AI Content Expert Needed to Teach (AI Content Production Systems)",
+   "url": "https://www.freelancer.com/projects/ai-content-creation/Content-Expert-Needed-Teach-Content",
+   "budget": 1000.0,
+   "posted": 1794177464.2540102,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40824998",
+   "source": "freelancer",
+   "title": "AI Social Content Automator",
+   "url": "https://www.freelancer.com/projects/ai-content-creation/Social-Content-Automator",
+   "budget": 750.0,
+   "posted": 1795038569.642148,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40824631",
+   "source": "freelancer",
+   "title": "Automated Email Outreach Tracking website Tracking AI agent",
+   "url": "https://www.freelancer.com/projects/email-marketing/Automated-Email-Outreach-Tracking",
+   "budget": 750.0,
+   "posted": 1795016974.4749238,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40809671",
+   "source": "freelancer",
+   "title": "Automate Your Workflows with AI",
+   "url": "https://www.freelancer.com/projects/automation/Automate-Your-Workflows-with",
+   "budget": 750.0,
+   "posted": 1794214569.9269028,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40819318",
+   "source": "freelancer",
+   "title": "Convert AI Packaging to AI Layers",
+   "url": "https://www.freelancer.com/projects/adobe-illustrator/Convert-Packaging-Layers",
+   "budget": 583.0,
+   "posted": 1794757777.0913649,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40808149",
+   "source": "freelancer",
+   "title": "Looking for AI Automation Specialists & Ready-Made Software Solutions",
+   "url": "https://www.freelancer.com/projects/ai-automation/White-Label-Software-Partnership",
+   "budget": 399.0,
+   "posted": 1794175431.8057017,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40808993",
+   "source": "freelancer",
+   "title": "Claude Code Reels Editor Needed",
+   "url": "https://www.freelancer.com/projects/ai-chatbot/Claude-Code-Reels-Editor-Needed",
+   "budget": 279.0,
+   "posted": 1794177623.2460928,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40558115",
+   "source": "freelancer",
+   "title": "Design Original ML Benchmark Challenges (ML Experts ONLY)",
+   "url": "https://www.freelancer.com/projects/machine-learning/Design-Original-Benchmark-Challenges",
+   "budget": 250.0,
+   "posted": 1794223154.1914048,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "wwr:https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
+   "source": "wwr:full-stack-programming",
+   "title": "Prolific Academic Ltd: Physicians - AI Training - Improving AI Trust and Safety - United States (Remote)",
+   "url": "https://weworkremotely.com/remote-jobs/prolific-academic-ltd-physicians-ai-training-improving-ai-trust-and-safety-united",
+   "budget": 216.0,
+   "posted": 1795004171.6522908,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40822392",
+   "source": "freelancer",
+   "title": "Legal AI Content Automation System",
+   "url": "https://www.freelancer.com/projects/ai-automation/Legal-Content-Automation-System",
+   "budget": 168.0,
+   "posted": 1794911503.3778932,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40826774",
+   "source": "freelancer",
+   "title": "AI Legal Marketing Automation Platform",
+   "url": "https://www.freelancer.com/projects/ai-video/Legal-Marketing-Automation-Platform",
+   "budget": 166.0,
+   "posted": 1795128806.0220723,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40826222",
+   "source": "freelancer",
+   "title": "Design & Development of Automatic Pick and Place System for Press Tool Loading and Unloading  Project Description  We are looking for an experienced Mechanical Design / Automation Engineer or a company capable of designing and developing a compact, reliab",
+   "url": "https://www.freelancer.com/projects/automation/Design-Development-Automatic-Pick-Place",
+   "budget": 134.0,
+   "posted": 1795101129.1329527,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40820379",
+   "source": "freelancer",
+   "title": "Meta Ads Lead Campaign Setup using Claude",
+   "url": "https://www.freelancer.com/projects/facebook-ads/Meta-Ads-Lead-Campaign-Setup",
+   "budget": 133.0,
+   "posted": 1794817691.9889536,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40808870",
+   "source": "freelancer",
+   "title": "Open-Source IT Automation Setup Set Up Free/Open-Source RPA & Automate My Daily IT Operations",
+   "url": "https://www.freelancer.com/projects/rpa-development/Open-Source-Automation-Setup-Set",
+   "budget": 133.0,
+   "posted": 1794175424.3989942,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40819415",
+   "source": "freelancer",
+   "title": "AI SEO Article Automation Tool",
+   "url": "https://www.freelancer.com/projects/ai-content-creation/SEO-Article-Automation-Tool",
+   "budget": 53.0,
+   "posted": 1794763261.307118,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "freelancer:40822730",
+   "source": "freelancer",
+   "title": "Build Scalable LLM Training Infrastructure",
+   "url": "https://www.freelancer.com/projects/ai-hw-sw/Build-Scalable-LLM-Training",
+   "budget": 50.0,
+   "posted": 1794926503.3256152,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "freelancer:40818467",
+   "source": "freelancer",
+   "title": "No-Code Web Scraping Automation Bot -- 2",
+   "url": "https://www.freelancer.com/projects/c-programming/Code-Web-Scraping-Automation-Bot",
+   "budget": 20.0,
+   "posted": 1794696701.3015969,
+   "score": 2,
+   "themes": [
+    "Парсинг и автоматизация",
+    "API и интеграции"
+   ]
+  },
+  {
+   "id": "freelancer:40809691",
+   "source": "freelancer",
+   "title": "n8n AI-Driven Workflow Setup",
+   "url": "https://www.freelancer.com/projects/n8n/Driven-Workflow-Setup",
+   "budget": 4.0,
+   "posted": 1794217917.5345502,
+   "score": 2,
+   "themes": [
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "wwr:https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "source": "wwr:back-end-programming",
+   "title": "GitLab: Backend Engineer (Ruby), AI Engineering: AI Catalog",
+   "url": "https://weworkremotely.com/remote-jobs/gitlab-backend-engineer-ruby-ai-engineering-ai-catalog",
+   "budget": null,
+   "posted": 1795288928.0731292,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "wwr:https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer",
+   "source": "wwr:full-stack-programming",
+   "title": "Gemini: Senior Data Engineer",
+   "url": "https://weworkremotely.com/remote-jobs/gemini-senior-data-engineer",
+   "budget": null,
+   "posted": 1795068168.8221729,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM"
+   ]
+  },
+  {
+   "id": "tg:FrWork3:FrWork3/16367",
+   "source": "telegram:FrWork3",
+   "title": "Специалист по поиску B2B-клиентов / Lead Researcher Ген Парс - внешний мозг собственников бизнеса. Работаем с задачами у",
+   "url": "https://t.me/FrWork3/16367",
+   "budget": null,
+   "posted": 1794926949.32943,
+   "score": 2,
+   "themes": [
+    "Боты",
+    "Парсинг и автоматизация"
+   ]
+  },
+  {
+   "id": "tg:freelansim_ru:freelansim_ru/5609",
+   "source": "telegram:freelansim_ru",
+   "title": "Подборка заказов по тегу #python : 1. Интеграция с DeepSeek API (цена договорная) https://u.habr.com/qdfRC 2. Data Scien",
+   "url": "https://t.me/freelansim_ru/5609",
+   "budget": null,
+   "posted": 1794389988.9943955,
+   "score": 2,
+   "themes": [
+    "Агенты и LLM",
+    "Парсинг и автоматизация",
+    "API и интеграции"
+   ]
+  },
+  {
+   "id": "github:6314803519",
+   "source": "github:bounty",
+   "title": "BOUNTY-03: CrewAI tool wrappers for dispute_letter + contract_analyze",
+   "url": "https://github.com/bshelby88/raen-bounties/issues/3",
+   "budget": null,
+   "posted": 1794342880.5653503,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "t3_1xskqfe",
+   "source": "reddit:automation",
+   "title": "Our AI drafted a kickoff date the customer had only floated, and someone who wasn't on the call approved it. Which CRM fields would you never let an automation write?",
+   "url": "https://www.reddit.com/r/automation/comments/1xskqfe/our_ai_drafted_a_kickoff_date_the_customer_had/",
+   "budget": null,
+   "posted": 1794313801.7717724,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "t3_1xs4et4",
+   "source": "reddit:n8n",
+   "title": "Should I get into AI workflow automation?",
+   "url": "https://www.reddit.com/r/n8n/comments/1xs4et4/should_i_get_into_ai_workflow_automation/",
+   "budget": null,
+   "posted": 1794259983.5234208,
+   "score": 2,
+   "themes": [
+    "Боты"
+   ]
+  },
+  {
+   "id": "t3_1xrra5z",
+   "source": "reddit:n8n",
+   "title": "5 things that make client n8n workflows fail at 2am, and the fix for each",
+   "url": "https://www.reddit.com/r/n8n/comments/1xrra5z/5_things_that_make_client_n8n_workflows_fail_at/",
+   "budget": null,
+   "posted": 1794232443.1028094,
+   "score": 2,
+   "themes": [
+    "Парсинг и автоматизация"
+   ]
+  }
+ ]
+}
