@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>AI-Orders Feed — заказы на ботов, LLM и парсинг, раз в неделю</title>
+<meta name="description" content="Еженедельная подборка заказов по AI, чат-ботам, LLM и парсингу из 10 источников: Freelancer, Upwork, GitHub Bounties, Reddit, Telegram-каналы. Бюджет, дата, прямая ссылка.">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'><text y='52' font-size='52'>⚡</text></svg>">
+<style>
+:root{color-scheme:dark;--bg:#0a0c0f;--panel:#11151a;--fg:#e9ecf1;--mut:#98a3b3;--acc:#7ef7c0;--line:#1d242c}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{margin:0;background:var(--bg);color:var(--fg);font:16px/1.6 ui-sans-serif,system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;-webkit-font-smoothing:antialiased}
+a{color:var(--acc)}
+.wrap{max-width:880px;margin:0 auto;padding:0 20px}
+header{padding:28px 0 0}
+.brand{font-weight:700;letter-spacing:-.02em}
+.brand span{color:var(--acc)}
+.hero{padding:64px 0 24px}
+h1{font-size:clamp(30px,6vw,54px);line-height:1.06;letter-spacing:-.03em;margin:0 0 18px;max-width:20ch}
+h1 em{font-style:normal;color:var(--acc)}
+.sub{font-size:clamp(17px,2.4vw,20px);color:var(--mut);max-width:56ch;margin:0 0 28px}
+.cta{display:inline-flex;align-items:center;gap:10px;background:var(--acc);color:#06120c;font-weight:650;text-decoration:none;padding:14px 22px;border-radius:12px;transition:transform .15s ease,filter .15s ease}
+.cta:hover{transform:translateY(-1px);filter:brightness(1.05)}
+.cta.ghost{background:transparent;color:var(--fg);border:1px solid var(--line);font-weight:550}
+.row{display:flex;gap:12px;flex-wrap:wrap;align-items:center}
+.stats{display:flex;gap:28px;flex-wrap:wrap;margin:36px 0 0;padding:20px 0;border-top:1px solid var(--line);border-bottom:1px solid var(--line)}
+.stat b{display:block;font-size:26px;letter-spacing:-.02em}
+.stat span{color:var(--mut);font-size:14px}
+section{padding:56px 0}
+h2{font-size:13px;text-transform:uppercase;letter-spacing:.12em;color:var(--acc);margin:0 0 18px}
+h3{font-size:20px;margin:0 0 8px;letter-spacing:-.01em}
+.grid{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(230px,1fr))}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:20px}
+.card p{margin:0;color:var(--mut);font-size:15px}
+.sample{background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:8px 20px}
+.sample li{list-style:none;padding:12px 0;border-bottom:1px solid var(--line)}
+.sample ul{margin:0;padding:0}
+.sample li:last-child{border:0}
+.sample a{color:var(--fg);text-decoration:none;font-weight:550}
+.sample a:hover{color:var(--acc)}
+.meta{display:block;color:var(--mut);font-size:13px;margin-top:4px}
+.meta b{color:#c9d4ff;font-weight:600}
+.prices{display:grid;gap:14px;grid-template-columns:repeat(auto-fit,minmax(260px,1fr))}
+.price{background:var(--panel);border:1px solid var(--line);border-radius:16px;padding:24px;display:flex;flex-direction:column;gap:10px}
+.price.hot{border-color:var(--acc)}
+.sum{font-size:34px;letter-spacing:-.03em;font-weight:700}
+.sum small{font-size:14px;color:var(--mut);font-weight:400;letter-spacing:0}
+.price ul{margin:6px 0 14px;padding-left:18px;color:var(--mut);font-size:15px}
+.price li{margin:4px 0}
+.price .cta{margin-top:auto;justify-content:center}
+ol.steps{counter-reset:s;list-style:none;padding:0;margin:0;display:grid;gap:14px}
+ol.steps li{counter-increment:s;background:var(--panel);border:1px solid var(--line);border-radius:14px;padding:18px 20px 18px 58px;position:relative;color:var(--mut)}
+ol.steps li::before{content:counter(s);position:absolute;left:18px;top:16px;width:26px;height:26px;border-radius:8px;background:var(--acc);color:#06120c;font-weight:700;display:grid;place-items:center;font-size:14px}
+ol.steps b{color:var(--fg)}
+footer{border-top:1px solid var(--line);padding:28px 0 48px;color:var(--mut);font-size:13px}
+.tag{display:inline-block;border:1px solid var(--line);border-radius:999px;padding:2px 10px;font-size:12px;color:var(--mut);margin:0 6px 6px 0}
+</style>
+</head>
+<body>
+<header class="wrap"><div class="brand">AI-Orders <span>Feed</span></div></header>
+
+<main>
+<div class="wrap hero">
+  <h1>Заказы на <em>ботов, LLM и парсинг</em> — одним письмом раз в неделю</h1>
+  <p class="sub">Мы каждый день собираем открытые заказы с Freelancer, Upwork, GitHub Bounties, Reddit и Telegram-каналов заказов, отбираем те, где нужен AI, чат-бот, интеграция n8n/Make или парсинг, и присылаем подборку: заголовок, бюджет, дата, прямая ссылка на заказ.</p>
+  <div class="row">
+    <a class="cta" href="mailto:factory@pxbt.app?subject=AI-ORDERS%20month&body=Хочу%20подписку%20AI-Orders%20Feed%20на%2030%20дней.%20Пришлите%20счёт.">Подписка — 990 ₽/мес</a>
+    <a class="cta ghost" href="digest/index.html">Посмотреть бесплатный выпуск</a>
+  </div>
+  <div class="stats">
+    <div class="stat"><b>54</b><span>заказа в выпуске W47</span></div>
+    <div class="stat"><b>10</b><span>источников</span></div>
+    <div class="stat"><b>14</b><span>дней — окно свежести</span></div>
+    <div class="stat"><b>0</b><span>предложений услуг в ленте</span></div>
+  </div>
+</div>
+
+<section class="wrap">
+  <h2>Что внутри</h2>
+  <div class="grid">
+    <div class="card"><h3>Только спрос</h3><p>Отсекаем «for hire», «предлагаю услуги» и обсуждения на форумах — остаются заказчики.</p></div>
+    <div class="card"><h3>Бюджет и дата</h3><p>Если заказчик указал бюджет — он в строке, рядом дата публикации и источник.</p></div>
+    <div class="card"><h3>Прямая ссылка</h3><p>Один клик — и вы на странице заказа. Без прокладок, редиректов и «оставьте заявку».</p></div>
+    <div class="card"><h3>Дубли убраны</h3><p>Один заказ — одна строка, даже если он висит на трёх площадках.</p></div>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>Фрагмент выпуска W47</h2>
+  <div class="sample">
+    <ul>
+      <li><a href="https://www.freelancer.com/projects/ai-chatbot/Secure-Mining-Reports-Chatbot-Dashboard" rel="noopener">Secure Mining Reports Chatbot Dashboard</a><span class="meta"><b>$1 012</b> · Freelancer.com · 17.11</span></li>
+      <li><a href="https://www.freelancer.com/projects/n8n/Content-Automation-40822009" rel="noopener">n8n AI Content Automation</a><span class="meta"><b>$826</b> · Freelancer.com · 17.11</span></li>
+      <li><a href="https://www.freelancer.com/projects/openai/OpenAI-Spreadsheet-Automation-Workflow" rel="noopener">OpenAI Spreadsheet Automation Workflow</a><span class="meta"><b>$750</b> · Freelancer.com · 18.11</span></li>
+      <li><a href="https://www.upwork.com/jobs/n8n-span-class-highlight-Automation-span-Engineer-Needed-Build-Production-Grade-Email-Document-Intake-amp-API-Pipeline_~022117951699469571001/" rel="noopener">n8n Automation Engineer: production email/API pipeline</a><span class="meta"><b>бюджет по договорённости</b> · Upwork · 20.11</span></li>
+      <li><a href="digest/index.html">Ещё 50 строк в бесплатном выпуске →</a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="wrap" id="subscribe">
+  <h2>Тарифы</h2>
+  <div class="prices">
+    <div class="price">
+      <h3>Разовая подборка</h3>
+      <div class="sum">490 ₽ <small>≈ 4,9 USDT</small></div>
+      <ul>
+        <li>все заказы последних 14 дней</li>
+        <li>письмо в течение часа после оплаты</li>
+        <li>без подписки и автосписаний</li>
+      </ul>
+      <a class="cta ghost" href="mailto:factory@pxbt.app?subject=AI-ORDERS%20one&body=Хочу%20разовую%20подборку%20AI-Orders.%20Пришлите%20счёт.">Купить подборку</a>
+    </div>
+    <div class="price hot">
+      <h3>Подписка на 30 дней</h3>
+      <div class="sum">990 ₽ <small>≈ 9,9 USDT / мес</small></div>
+      <ul>
+        <li>4 еженедельных выпуска</li>
+        <li>полная лента: до 90 заказов</li>
+        <li>приоритет: свежие заказы первыми</li>
+      </ul>
+      <a class="cta" href="mailto:factory@pxbt.app?subject=AI-ORDERS%20month&body=Хочу%20подписку%20AI-Orders%20Feed%20на%2030%20дней.%20Пришлите%20счёт.">Оформить подписку</a>
+    </div>
+  </div>
+</section>
+
+<section class="wrap">
+  <h2>Как это работает</h2>
+  <ol class="steps">
+    <li><b>Пишете письмо</b> — кнопка выше открывает его с готовой темой. Больше ничего заполнять не нужно.</li>
+    <li><b>Получаете счёт</b> — ответ в течение часа: ссылка на оплату в USDT через CryptoBot или счёт на карту по запросу.</li>
+    <li><b>Читаете подборку</b> — сразу после оплаты приходит текущий выпуск, дальше каждый понедельник новый. Оплата разовая либо на 30 дней, автосписаний нет.</li>
+  </ol>
+</section>
+
+<section class="wrap">
+  <h2>Откуда заказы</h2>
+  <p>
+    <span class="tag">Freelancer.com</span><span class="tag">Upwork</span><span class="tag">GitHub Bounties</span>
+    <span class="tag">Reddit: r/forhire, r/n8n, r/automation</span><span class="tag">Hacker News Who is hiring</span>
+    <span class="tag">Telegram: @freelansim_ru, @FrWork3, @digitaltender</span><span class="tag">We Work Remotely</span>
+  </p>
+  <p class="sub" style="font-size:15px">Отбор по словам: бот, LLM, GPT, OpenAI, Anthropic, LangChain, RAG, n8n, Make, Zapier, парсинг, автоматизация, нейросети. Отписка — ответом на любое письмо, без формы.</p>
+</section>
+</main>
+
+<footer class="wrap">
+  AI-Orders Feed · вопросы и возвраты: factory@pxbt.app · © 2026
+</footer>
+</body>
+</html>
